@@ -22,8 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunaltripathi7&show_icons=true&locale=en" alt="kunaltripathi7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunaltripathi7&" alt="kunaltripathi7" /></p>
-<table>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/kunaltripathi7#gh-light-mode-only"><img src="https://raw.githubusercontent.com/kunaltripathi7/kunaltripathi7/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/kunaltripathi7#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/kunaltripathi7/kunaltripathi7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-</table>
