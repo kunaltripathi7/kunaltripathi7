@@ -20,3 +20,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunaltripathi7&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="kunaltripathi7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunaltripathi7&theme=github_dark" alt="kunaltripathi7" /></p>
+
+### My Social Media Handles
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ikunaltripathi/)
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/ikunaltripathi_)
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/ikunaltripathi_/)
+
+  
+### My Coding Profiles
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/kunallc2153/)
+[<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/ikunaltripathi/)
