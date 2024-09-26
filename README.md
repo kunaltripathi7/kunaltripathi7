@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Tripathi</h1>
-<h3 align="center">I'm a tech enthusiast with a passion for coding and problem-solving.</h3>
+<h3 align="center">I'm a tech enthusiast exploring the binary cosmos.</h3>
 <img src="https://i.postimg.cc/gjgygVJW/header.png" alt="Header Image">
 
 
